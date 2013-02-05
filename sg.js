@@ -30,7 +30,7 @@ addGlobalStyle('#button-vote-negative {background-image: url("http://cloud.githu
 //
 addGlobalStyle('.chat-bouncer{background: url("https://dl.dropbox.com/u/67634625/chat-bouncer-icon.png") no-repeat 0 5px;padding-left: 17px;width: 292px;');
 //
-//addGlobalStyle('#volume-bar-value{background-image: url("https://dl.dropbox.com/u/67634625/test.png"}');
+addGlobalStyle('#volume-bar-value{background-image: url("https://dl.dropbox.com/u/67634625/test.png"}');
 //
 addGlobalStyle('#room-wheel {background-image: max-height:0px;max-width:0px;}');
 //
